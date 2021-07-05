@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeandarias&label=Profile%20views&color=0e75b6&style=flat" alt="jorgeandarias" /> </p>
 
-- 🌱 I’m currently learning **Reinforcing my Ruby and JS knowledge**
+- 🌱 I’m currently **upskilling my Ruby and JS knowledge**
 
 - 📫 How to reach me **jorgeariasgil@gmail.com**
 
