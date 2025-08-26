@@ -2,7 +2,7 @@
 
 I’m a Software Engineer in **Melbourne, Australia**, passionate about building **smart, scalable systems**. I code mainly in **TypeScript, JavaScript, Python, and PostgreSQL** and co-created **[Kubrick](https://kubrick-ai.com/)** — an open-source pipeline + API that makes **semantic search over video** almost magical.  
 
-When I’m not coding, you’ll find me **walking my dog or lifting heavy things at the gym**.
+When I’m not coding, you’ll find me **walking my dog, exploring new restaurants around the city, or lifting heavy things at the gym**.
 
 ## ⚡ Kubrick
 [Kubrick](https://kubrick-ai.com/) is an open-source deployable ingestion pipeline and API for video semantic search, enabling users or RAG systems to retrieve video using natural language, images, audio, and video queries.
