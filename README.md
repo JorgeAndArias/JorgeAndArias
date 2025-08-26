@@ -5,12 +5,12 @@ I’m a Software Engineer in **Melbourne, Australia**, passionate about building
 When I’m not coding, you’ll find me **walking my dog or lifting heavy things at the gym**.
 
 ## ⚡ Kubrick
-Recently, I co-created [Kubrick](https://kubrick-ai.com/), an open-source deployable ingestion pipeline and API for video semantic search, enabling users or RAG systems to retrieve video using natural language, images, audio, and video queries.
+[Kubrick](https://kubrick-ai.com/) is an open-source deployable ingestion pipeline and API for video semantic search, enabling users or RAG systems to retrieve video using natural language, images, audio, and video queries.
 
 **Technologies Used:**
 Python, TypeScript, JavaScript, Terraform, AWS (Lambda, API Gateway, SQS, S3, RDS, DynamoDB, CloudFront) 
 
-📖 [Read more about Kubrick](https://kubrick-ai.com/)  
+📖 [Read the Kubrick Case Study](https://kubrick-ai.com/case-study/intro/)
 
 ## 🛠️ Technologies and Tools
 
