@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A passionate junior developer</h3>
+## Hi there 👋, I'm Jorge
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeandarias&label=Profile%20views&color=0e75b6&style=flat" alt="jorgeandarias" /> </p>
+I’m a Software Engineer in **Melbourne, Australia**, passionate about building **smart, scalable systems**. I code mainly in **TypeScript, JavaScript, Python, and PostgreSQL** and co-created **[Kubrick](https://kubrick-ai.com/)** — an open-source pipeline + API that makes **semantic search over video** almost magical.  
 
-- 🌱 I’m currently **upskilling my Ruby and JS knowledge**
+When I’m not coding, you’ll find me **walking my dog or lifting heavy things at the gym**.
 
-- 📫 How to reach me **jorgeariasgil@gmail.com**
+## ⚡ Kubrick
+Recently, I co-created [Kubrick](https://kubrick-ai.com/), an open-source deployable ingestion pipeline and API for video semantic search, enabling users or RAG systems to retrieve video using natural language, images, audio, and video queries.
 
-- ⚡ Fun fact **Love dogs and football!!**
+**Technologies Used:**
+Python, TypeScript, JavaScript, Terraform, AWS (Lambda, API Gateway, SQS, S3, RDS, DynamoDB, CloudFront) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jorgeandarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgeandarias" height="30" width="40" /></a>
-</p>
+📖 [Read more about Kubrick](https://kubrick-ai.com/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+## 🛠️ Technologies and Tools
+
+|Category|Technologies|
+|---|---|
+|AI|RAG, OpenAI, Embeddings, pgvector, TwelveLabs|
+|Backend|Node.js, Express, Ruby, Sinatra, Python, Flask, PostgreSQL, MongoDB, REST APIs|
+|Frontend|JavaScript, TypeScript, React, NextJS|
+|Cloud|AWS (Lambda, API Gateway, RDS, DynamoDB,  IAM, CloudFront, S3, SQS), Terraform, Digital Ocean|
+|Other|Git/Github, GitHub Actions, Docker, HTTP, Webhooks, Nginx, Postman|
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/jorgeandarias/)
+- [Email](mailto:jorgeariasgil@gmail.com)
