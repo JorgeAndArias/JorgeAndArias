@@ -16,7 +16,7 @@ Python, TypeScript, JavaScript, Terraform, AWS (Lambda, API Gateway, SQS, S3, RD
 
 |Category|Technologies|
 |---|---|
-|AI|RAG, OpenAI, Embeddings, pgvector, TwelveLabs|
+|AI|RAG, OpenAI, Vector Embeddings, pgvector, TwelveLabs|
 |Backend|Node.js, Express, Ruby, Sinatra, Python, Flask, PostgreSQL, MongoDB, REST APIs|
 |Frontend|JavaScript, TypeScript, React, NextJS|
 |Cloud|AWS (Lambda, API Gateway, RDS, DynamoDB,  IAM, CloudFront, S3, SQS), Terraform, Digital Ocean|
